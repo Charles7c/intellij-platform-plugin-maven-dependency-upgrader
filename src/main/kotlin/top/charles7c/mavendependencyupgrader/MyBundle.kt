@@ -1,4 +1,4 @@
-package com.github.charles7c.intellijplatformpluginmavendependencyupgrader
+package top.charles7c.mavendependencyupgrader
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
